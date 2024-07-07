@@ -1,0 +1,54 @@
+# Node modules
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Build directories
+build/
+dist/
+
+# Local environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+logs/
+*.log
+
+# MacOS
+.DS_Store
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# React specific
+public/static/
+public/build/
+public/assets/
+
+# Cache
+.cache/
+.tmp/
+
+# Coverage directory used by testing tools
+coverage/
+
+# Next.js
+.next/
+
+# Expo
+web-build/
+
+# Other
+public/media/
