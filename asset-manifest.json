@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/45day/static/css/main.4688ce44.css",
+    "main.js": "/45day/static/js/main.cf3b6906.js",
+    "static/js/453.30ac377f.chunk.js": "/45day/static/js/453.30ac377f.chunk.js",
+    "index.html": "/45day/index.html",
+    "main.4688ce44.css.map": "/45day/static/css/main.4688ce44.css.map",
+    "main.cf3b6906.js.map": "/45day/static/js/main.cf3b6906.js.map",
+    "453.30ac377f.chunk.js.map": "/45day/static/js/453.30ac377f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4688ce44.css",
+    "static/js/main.cf3b6906.js"
+  ]
+}
